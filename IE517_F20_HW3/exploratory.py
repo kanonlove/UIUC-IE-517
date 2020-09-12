@@ -208,8 +208,8 @@ plt.pcolor(cormat)
 plt.show()
 print("\n")
 
-print("My name is {type your name here}")
-print("My NetID is: {type your NetID here}")
+print("My name is Yi Zhou")
+print("My NetID is: yizhou16")
 print("I hereby certify that I have read the University policy on Academic Integrity and that I am not in violation.")
     
 
