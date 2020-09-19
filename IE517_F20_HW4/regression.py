@@ -222,6 +222,17 @@ plt.xlabel("Median value of owner-occupied homes in $1000s (TARGET)")
 plt.ylabel("numbers")
 plt.show()
 
+#scatter plots for two most correlated features RM and LSAT
+plt.scatter(df["LSTAT"],df["MEDV"])
+plt.xlabel("LSTAT")
+plt.ylabel("MEDV")
+plt.show()
+
+plt.scatter(df["RM"],df["MEDV"])
+plt.xlabel("RM")
+plt.ylabel("MEDV")
+plt.xlim(0,10)
+plt.show()
 
 #exploratory ends here
 
