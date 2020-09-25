@@ -326,3 +326,7 @@ print (r2_score(y_train_SVM_pca_predict,y_train))
 print("R^2 Test:")
 print (r2_score(y_test_SVM_pca_predict,y_test))
 print("\n")
+
+print("My name is Yi Zhou")
+print("My NetID is: yizhou16")
+print("I hereby certify that I have read the University policy on Academic Integrity and that I am not in violation.")
